@@ -1,0 +1,3 @@
+message: "Hello from common config"
+myapp:
+  url: "http://example.com"
