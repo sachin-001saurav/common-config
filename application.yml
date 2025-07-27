@@ -3,4 +3,4 @@ myapp:
   url: "http://example.com"
 
 server:
-  port:8088
+  port: 8088
