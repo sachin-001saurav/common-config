@@ -2,5 +2,5 @@ message: "Hello from common config"
 myapp:
   url: "http://example.com"
 
-server
+server:
   port:8088
