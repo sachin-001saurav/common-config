@@ -1,7 +1,3 @@
 server:
   port: 8088
-spring:
-  datasource:
-    url: jdbc:mysql://localhost/infytel
-    driverClassName: com.mysql.cj.jdbc.Driver
 msg: "This is from Customer.yml file"
